@@ -1,0 +1,6 @@
+public/
+dist
+node_modules/
+src/index.js
+src/App.test.js
+src/serviceWorker.js
